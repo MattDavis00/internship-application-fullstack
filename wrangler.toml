@@ -1,4 +1,4 @@
-name = "{{project-name}}"
+name = "cloudflare-internship-fullstack"
 type = "javascript"
 account_id = ""
 workers_dev = true
